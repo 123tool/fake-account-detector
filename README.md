@@ -24,10 +24,13 @@ Akun akan diaudit dan diberi skor kecurigaan akumulatif. Jika total skor mencapa
 ---
 
 ## Instalasi & Penggunaan
+
 ​1. Prasyarat (Prerequisites)
 ​Pastikan perangkat Anda sudah terinstal Python 3.8 atau versi yang lebih baru.
+
 ​2. Kloning atau Buat Folder Proyek
 ​Buat folder baru di komputer Anda dan susun file sesuai dengan struktur direktori di atas.
+
 ​3. Instalasi Library Pihak Ketiga
 ​Buka Terminal atau Command Prompt (CMD) di dalam direktori proyek, lalu instal pustaka data science dan visualisasi yang dibutuhkan dengan perintah berikut :
 ```
