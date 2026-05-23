@@ -36,11 +36,11 @@ Akun akan diaudit dan diberi skor kecurigaan akumulatif. Jika total skor mencapa
 ```
 pip install pandas matplotlib seaborn
 ```
-4. Menjalankan Aplikasi
-​Eksekusi file utama (main.py) untuk memulai proses audit forensik :
+4. Eksekusi file utama (main.py) untuk memulai proses audit forensik :
 ```
 python main.py
 ```
+
 
 ## Alur Kerja Aplikasi Saat Dijalankan
 
